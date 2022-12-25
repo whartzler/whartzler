@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @whartzler
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and SQL fundamentals
-- 💞️ I’m looking to collaborate on Data visualization and Data Science tools
+- 🌱 Gradute of Denver Univserity Data Analystics Boot Camp
+- 💞️ I’m looking to collaborate on Data visualization and Data Science tools!
 
 <!---
 whartzler/whartzler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
