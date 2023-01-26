@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on Data visualization and Data Science tools!
 
 Contact Information
+
 Email: warren.hartzler@gmail.com
+
 Linkedin: https://www.linkedin.com/in/warren-hartzler-262811147/
 
 <!---
