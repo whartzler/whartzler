@@ -1,7 +1,7 @@
 ### Hi, I’m Warren Hartzler
-- 👀 I’m interested in Data Science
 - 🌱 Gradute of Denver Univserity Data Analystics Boot Camp
 - 💞️ I’m looking to collaborate on Data visualization and Data Science tools!
+
 
 #### Contact Information
 - Email: warren.hartzler@gmail.com
