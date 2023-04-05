@@ -1,5 +1,5 @@
 ### Hi, I’m Warren Hartzler
-- 🌱 Gradute of Denver Univserity Data Analystics Boot Camp
+- 🌱 Graduate of Denver Univserity Data Analystics Boot Camp
 - 💞️ I’m looking to collaborate on Data visualization and Data Science tools!
 
 <!---
